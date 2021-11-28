@@ -11,20 +11,20 @@ Education
 ---------
 
 *2021-2022 (expected)*
-*Master Of Computer Application*; CMRIT(Bangalore)
-*CGPA: 7.74*
+*Master Of Computer Application*; CMRIT(Bangalore)*
+*CGPA:* 7.74
 
 *2017-2019*
-:  *Bachelor of Computer Application*; LB & SBS COLLEGE AUTONOMOUS(SAGAR)  
+ *Bachelor of Computer Application*: LB & SBS COLLEGE AUTONOMOUS(SAGAR)  
 *Percentage: 68.89*  
 
 *2016*  
-*PUC: *;Govt Junior College, Sagar  
+*PUC*;Govt Junior College, Sagar  
 *Percentage: 59.5*  
 
 
 *2014*  
-*SSLC: *;Govt Junior College, Sagar  
+*SSLC:*Govt Junior College, Sagar  
 *Percentage:*  76.82  
 
 Technical Skills  
@@ -58,7 +58,7 @@ This website allows customers to Book Halls in advance for Marriage, Birthday Pa
 
 *Certifications :*    Hardware• & Networking Certificate by Skills Mantra   
       MYSQL Basics Certificate from Great Learning   
-*Extra – Curricular Activities:*  Have one YouTube channel named “Trendy Clips”*  
+*Extra – Curricular Activities:*Have one YouTube channel named “Trendy Clips” 
 
 *PERSONAL DETAILS*   
 Date of Birth : 17/05/1998    
